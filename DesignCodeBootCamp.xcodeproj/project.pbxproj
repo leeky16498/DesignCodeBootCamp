@@ -37,6 +37,11 @@
 		79D66B4327CFD39000EA0AD2 /* LazyVstackClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4227CFD39000EA0AD2 /* LazyVstackClass.swift */; };
 		79D66B4527CFD45100EA0AD2 /* LinkClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4427CFD45100EA0AD2 /* LinkClass.swift */; };
 		79D66B4727CFD54F00EA0AD2 /* PickerClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4627CFD54F00EA0AD2 /* PickerClass.swift */; };
+		79D66B4927D0015600EA0AD2 /* fullModalTransitionClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4827D0015600EA0AD2 /* fullModalTransitionClass.swift */; };
+		79D66B4B27D001CC00EA0AD2 /* StateBarClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4A27D001CC00EA0AD2 /* StateBarClass.swift */; };
+		79D66B4D27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4C27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift */; };
+		79D66B4F27D0037F00EA0AD2 /* HorizontalScroll3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4E27D0037F00EA0AD2 /* HorizontalScroll3D.swift */; };
+		79D66B5127D0069C00EA0AD2 /* CustomAnimationClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B5027D0069C00EA0AD2 /* CustomAnimationClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +75,11 @@
 		79D66B4227CFD39000EA0AD2 /* LazyVstackClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVstackClass.swift; sourceTree = "<group>"; };
 		79D66B4427CFD45100EA0AD2 /* LinkClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkClass.swift; sourceTree = "<group>"; };
 		79D66B4627CFD54F00EA0AD2 /* PickerClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerClass.swift; sourceTree = "<group>"; };
+		79D66B4827D0015600EA0AD2 /* fullModalTransitionClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fullModalTransitionClass.swift; sourceTree = "<group>"; };
+		79D66B4A27D001CC00EA0AD2 /* StateBarClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBarClass.swift; sourceTree = "<group>"; };
+		79D66B4C27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedactedPlaceholderClass.swift; sourceTree = "<group>"; };
+		79D66B4E27D0037F00EA0AD2 /* HorizontalScroll3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScroll3D.swift; sourceTree = "<group>"; };
+		79D66B5027D0069C00EA0AD2 /* CustomAnimationClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnimationClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +158,11 @@
 				79D66B4227CFD39000EA0AD2 /* LazyVstackClass.swift */,
 				79D66B4427CFD45100EA0AD2 /* LinkClass.swift */,
 				79D66B4627CFD54F00EA0AD2 /* PickerClass.swift */,
+				79D66B4827D0015600EA0AD2 /* fullModalTransitionClass.swift */,
+				79D66B4A27D001CC00EA0AD2 /* StateBarClass.swift */,
+				79D66B4C27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift */,
+				79D66B4E27D0037F00EA0AD2 /* HorizontalScroll3D.swift */,
+				79D66B5027D0069C00EA0AD2 /* CustomAnimationClass.swift */,
 			);
 			path = BootCampFiles;
 			sourceTree = "<group>";
@@ -234,14 +249,18 @@
 				79D66B1427CFB39300EA0AD2 /* ColorLiteralClass.swift in Sources */,
 				79D66B1827CFB4D300EA0AD2 /* SidebarClass.swift in Sources */,
 				79D66B3027CFC3DA00EA0AD2 /* DragGestureClass.swift in Sources */,
+				79D66B5127D0069C00EA0AD2 /* CustomAnimationClass.swift in Sources */,
+				79D66B4B27D001CC00EA0AD2 /* StateBarClass.swift in Sources */,
 				79D66B0527CFB1A200EA0AD2 /* ContentView.swift in Sources */,
 				79D66B3827CFCC9E00EA0AD2 /* BackgroundBlurClass.swift in Sources */,
 				79D66B3427CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift in Sources */,
 				79D66B2A27CFBDF700EA0AD2 /* TransitionClass.swift in Sources */,
 				79D66B2027CFB92B00EA0AD2 /* maxWidthClass.swift in Sources */,
+				79D66B4D27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift in Sources */,
 				79D66B0327CFB1A200EA0AD2 /* DesignCodeBootCampApp.swift in Sources */,
 				79D66B1E27CFB84600EA0AD2 /* TextViewClass.swift in Sources */,
 				79D66B3A27CFCEBB00EA0AD2 /* VisualEffectBlur.swift in Sources */,
+				79D66B4927D0015600EA0AD2 /* fullModalTransitionClass.swift in Sources */,
 				79D66B4127CFD02100EA0AD2 /* LazyGridLayoutClass.swift in Sources */,
 				79D66B3627CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift in Sources */,
 				79D66B1C27CFB7BB00EA0AD2 /* ImageViewClass.swift in Sources */,
@@ -253,6 +272,7 @@
 				79D66B2E27CFC11100EA0AD2 /* TapandLongPressAnimationClass.swift in Sources */,
 				79D66B4527CFD45100EA0AD2 /* LinkClass.swift in Sources */,
 				79D66B3C27CFCF4700EA0AD2 /* LottieView.swift in Sources */,
+				79D66B4F27D0037F00EA0AD2 /* HorizontalScroll3D.swift in Sources */,
 				79D66B1227CFB28F00EA0AD2 /* ShapesClass.swift in Sources */,
 				79D66B2827CFBD2300EA0AD2 /* AnimationClass.swift in Sources */,
 			);
