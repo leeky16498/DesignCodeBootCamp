@@ -29,6 +29,14 @@
 		79D66B3227CFC5AD00EA0AD2 /* MatchedGeometryReaderClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B3127CFC5AD00EA0AD2 /* MatchedGeometryReaderClass.swift */; };
 		79D66B3427CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B3327CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift */; };
 		79D66B3627CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B3527CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift */; };
+		79D66B3827CFCC9E00EA0AD2 /* BackgroundBlurClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B3727CFCC9E00EA0AD2 /* BackgroundBlurClass.swift */; };
+		79D66B3A27CFCEBB00EA0AD2 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B3927CFCEBB00EA0AD2 /* VisualEffectBlur.swift */; };
+		79D66B3C27CFCF4700EA0AD2 /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B3B27CFCF4700EA0AD2 /* LottieView.swift */; };
+		79D66B3F27CFD00E00EA0AD2 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 79D66B3E27CFD00E00EA0AD2 /* Lottie */; };
+		79D66B4127CFD02100EA0AD2 /* LazyGridLayoutClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4027CFD02100EA0AD2 /* LazyGridLayoutClass.swift */; };
+		79D66B4327CFD39000EA0AD2 /* LazyVstackClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4227CFD39000EA0AD2 /* LazyVstackClass.swift */; };
+		79D66B4527CFD45100EA0AD2 /* LinkClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4427CFD45100EA0AD2 /* LinkClass.swift */; };
+		79D66B4727CFD54F00EA0AD2 /* PickerClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B4627CFD54F00EA0AD2 /* PickerClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +63,13 @@
 		79D66B3127CFC5AD00EA0AD2 /* MatchedGeometryReaderClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryReaderClass.swift; sourceTree = "<group>"; };
 		79D66B3327CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedMatchedGeometry.swift; sourceTree = "<group>"; };
 		79D66B3527CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedGeometryPlayView.swift; sourceTree = "<group>"; };
+		79D66B3727CFCC9E00EA0AD2 /* BackgroundBlurClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundBlurClass.swift; sourceTree = "<group>"; };
+		79D66B3927CFCEBB00EA0AD2 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VisualEffectBlur.swift; path = ../../../../../../Downloads/BackgroundBlur/BackgroundBlur/VisualEffectBlur.swift; sourceTree = "<group>"; };
+		79D66B3B27CFCF4700EA0AD2 /* LottieView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LottieView.swift; path = "../../../../Selfcoding/NewloginView/New loginView/View/LottieView.swift"; sourceTree = "<group>"; };
+		79D66B4027CFD02100EA0AD2 /* LazyGridLayoutClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridLayoutClass.swift; sourceTree = "<group>"; };
+		79D66B4227CFD39000EA0AD2 /* LazyVstackClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVstackClass.swift; sourceTree = "<group>"; };
+		79D66B4427CFD45100EA0AD2 /* LinkClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkClass.swift; sourceTree = "<group>"; };
+		79D66B4627CFD54F00EA0AD2 /* PickerClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +77,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79D66B3F27CFD00E00EA0AD2 /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,6 +141,13 @@
 				79D66B3127CFC5AD00EA0AD2 /* MatchedGeometryReaderClass.swift */,
 				79D66B3327CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift */,
 				79D66B3527CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift */,
+				79D66B3727CFCC9E00EA0AD2 /* BackgroundBlurClass.swift */,
+				79D66B3927CFCEBB00EA0AD2 /* VisualEffectBlur.swift */,
+				79D66B3B27CFCF4700EA0AD2 /* LottieView.swift */,
+				79D66B4027CFD02100EA0AD2 /* LazyGridLayoutClass.swift */,
+				79D66B4227CFD39000EA0AD2 /* LazyVstackClass.swift */,
+				79D66B4427CFD45100EA0AD2 /* LinkClass.swift */,
+				79D66B4627CFD54F00EA0AD2 /* PickerClass.swift */,
 			);
 			path = BootCampFiles;
 			sourceTree = "<group>";
@@ -145,6 +168,9 @@
 			dependencies = (
 			);
 			name = DesignCodeBootCamp;
+			packageProductDependencies = (
+				79D66B3E27CFD00E00EA0AD2 /* Lottie */,
+			);
 			productName = DesignCodeBootCamp;
 			productReference = 79D66AFF27CFB1A200EA0AD2 /* DesignCodeBootCamp.app */;
 			productType = "com.apple.product-type.application";
@@ -173,6 +199,9 @@
 				Base,
 			);
 			mainGroup = 79D66AF627CFB1A200EA0AD2;
+			packageReferences = (
+				79D66B3D27CFD00E00EA0AD2 /* XCRemoteSwiftPackageReference "lottie-ios" */,
+			);
 			productRefGroup = 79D66B0027CFB1A200EA0AD2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -206,17 +235,24 @@
 				79D66B1827CFB4D300EA0AD2 /* SidebarClass.swift in Sources */,
 				79D66B3027CFC3DA00EA0AD2 /* DragGestureClass.swift in Sources */,
 				79D66B0527CFB1A200EA0AD2 /* ContentView.swift in Sources */,
+				79D66B3827CFCC9E00EA0AD2 /* BackgroundBlurClass.swift in Sources */,
 				79D66B3427CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift in Sources */,
 				79D66B2A27CFBDF700EA0AD2 /* TransitionClass.swift in Sources */,
 				79D66B2027CFB92B00EA0AD2 /* maxWidthClass.swift in Sources */,
 				79D66B0327CFB1A200EA0AD2 /* DesignCodeBootCampApp.swift in Sources */,
 				79D66B1E27CFB84600EA0AD2 /* TextViewClass.swift in Sources */,
+				79D66B3A27CFCEBB00EA0AD2 /* VisualEffectBlur.swift in Sources */,
+				79D66B4127CFD02100EA0AD2 /* LazyGridLayoutClass.swift in Sources */,
 				79D66B3627CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift in Sources */,
 				79D66B1C27CFB7BB00EA0AD2 /* ImageViewClass.swift in Sources */,
 				79D66B2C27CFBF6300EA0AD2 /* Animation3DClass.swift in Sources */,
+				79D66B4727CFD54F00EA0AD2 /* PickerClass.swift in Sources */,
 				79D66B2627CFBCA500EA0AD2 /* TabviewClass.swift in Sources */,
+				79D66B4327CFD39000EA0AD2 /* LazyVstackClass.swift in Sources */,
 				79D66B1A27CFB6CE00EA0AD2 /* ToolBarClass.swift in Sources */,
 				79D66B2E27CFC11100EA0AD2 /* TapandLongPressAnimationClass.swift in Sources */,
+				79D66B4527CFD45100EA0AD2 /* LinkClass.swift in Sources */,
+				79D66B3C27CFCF4700EA0AD2 /* LottieView.swift in Sources */,
 				79D66B1227CFB28F00EA0AD2 /* ShapesClass.swift in Sources */,
 				79D66B2827CFBD2300EA0AD2 /* AnimationClass.swift in Sources */,
 			);
@@ -419,6 +455,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		79D66B3D27CFD00E00EA0AD2 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		79D66B3E27CFD00E00EA0AD2 /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 79D66B3D27CFD00E00EA0AD2 /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 79D66AF727CFB1A200EA0AD2 /* Project object */;
 }
