@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		798B17FF27D0B5520017FEC6 /* DismissCustomModal in Resources */ = {isa = PBXBuildFile; fileRef = 798B17FE27D0B5520017FEC6 /* DismissCustomModal */; };
+		798B180127D0B5CE0017FEC6 /* IteratingFunctionClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180027D0B5CE0017FEC6 /* IteratingFunctionClass.swift */; };
+		798B180327D0B6E90017FEC6 /* SwitchVariableClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180227D0B6E90017FEC6 /* SwitchVariableClass.swift */; };
+		798B180527D0B7790017FEC6 /* DateFormatClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180427D0B7790017FEC6 /* DateFormatClass.swift */; };
+		798B180727D0B95D0017FEC6 /* UserDefaultsClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180627D0B95D0017FEC6 /* UserDefaultsClass.swift */; };
+		798B180927D0BAB50017FEC6 /* HideKeyboardClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180827D0BAB50017FEC6 /* HideKeyboardClass.swift */; };
+		798B180B27D0BB5F0017FEC6 /* videoPlayerClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180A27D0BB5F0017FEC6 /* videoPlayerClass.swift */; };
+		798B180D27D0BDAF0017FEC6 /* TrackableTableViewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B180C27D0BDAF0017FEC6 /* TrackableTableViewClass.swift */; };
+		798B181027D0BE020017FEC6 /* SwiftUITrackableScrollView in Frameworks */ = {isa = PBXBuildFile; productRef = 798B180F27D0BE020017FEC6 /* SwiftUITrackableScrollView */; };
+		798B181227D0BFD80017FEC6 /* LinkForText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B181127D0BFD80017FEC6 /* LinkForText.swift */; };
+		798B181427D0C0E50017FEC6 /* ShareSheetClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B181327D0C0E50017FEC6 /* ShareSheetClass.swift */; };
+		798B181827D0C28F0017FEC6 /* AppstorageClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B181727D0C28F0017FEC6 /* AppstorageClass.swift */; };
+		798B181E27D0C54D0017FEC6 /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B181C27D0C54D0017FEC6 /* CoursesView.swift */; };
+		798B181F27D0C54D0017FEC6 /* CourseCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B181D27D0C54D0017FEC6 /* CourseCard.swift */; };
+		798B182127D0C55D0017FEC6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B182027D0C55D0017FEC6 /* HomeView.swift */; };
+		798B182327D0C5690017FEC6 /* TabToToop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B182227D0C5690017FEC6 /* TabToToop.swift */; };
+		798B182927D0C8EF0017FEC6 /* ChildView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B182827D0C8EF0017FEC6 /* ChildView.swift */; };
+		798B182B27D0C94B0017FEC6 /* TabToRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B182A27D0C94B0017FEC6 /* TabToRoot.swift */; };
+		798B182D27D0CB2C0017FEC6 /* customScrollBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798B182C27D0CB2C0017FEC6 /* customScrollBar.swift */; };
 		79D66B0327CFB1A200EA0AD2 /* DesignCodeBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B0227CFB1A200EA0AD2 /* DesignCodeBootCampApp.swift */; };
 		79D66B0527CFB1A200EA0AD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D66B0427CFB1A200EA0AD2 /* ContentView.swift */; };
 		79D66B0727CFB1A300EA0AD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79D66B0627CFB1A300EA0AD2 /* Assets.xcassets */; };
@@ -45,6 +64,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		798B17FE27D0B5520017FEC6 /* DismissCustomModal */ = {isa = PBXFileReference; lastKnownFileType = folder; name = DismissCustomModal; path = ../../../../../../Downloads/DismissCustomModal; sourceTree = "<group>"; };
+		798B180027D0B5CE0017FEC6 /* IteratingFunctionClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IteratingFunctionClass.swift; sourceTree = "<group>"; };
+		798B180227D0B6E90017FEC6 /* SwitchVariableClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchVariableClass.swift; sourceTree = "<group>"; };
+		798B180427D0B7790017FEC6 /* DateFormatClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatClass.swift; sourceTree = "<group>"; };
+		798B180627D0B95D0017FEC6 /* UserDefaultsClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsClass.swift; sourceTree = "<group>"; };
+		798B180827D0BAB50017FEC6 /* HideKeyboardClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboardClass.swift; sourceTree = "<group>"; };
+		798B180A27D0BB5F0017FEC6 /* videoPlayerClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = videoPlayerClass.swift; sourceTree = "<group>"; };
+		798B180C27D0BDAF0017FEC6 /* TrackableTableViewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackableTableViewClass.swift; sourceTree = "<group>"; };
+		798B181127D0BFD80017FEC6 /* LinkForText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkForText.swift; sourceTree = "<group>"; };
+		798B181327D0C0E50017FEC6 /* ShareSheetClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheetClass.swift; sourceTree = "<group>"; };
+		798B181727D0C28F0017FEC6 /* AppstorageClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppstorageClass.swift; sourceTree = "<group>"; };
+		798B181C27D0C54D0017FEC6 /* CoursesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CoursesView.swift; path = ../../../../../../../Downloads/Shared/CoursesView.swift; sourceTree = "<group>"; };
+		798B181D27D0C54D0017FEC6 /* CourseCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CourseCard.swift; path = ../../../../../../../Downloads/Shared/CourseCard.swift; sourceTree = "<group>"; };
+		798B182027D0C55D0017FEC6 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeView.swift; path = ../../../../../../../Downloads/Shared/HomeView.swift; sourceTree = "<group>"; };
+		798B182227D0C5690017FEC6 /* TabToToop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabToToop.swift; sourceTree = "<group>"; };
+		798B182827D0C8EF0017FEC6 /* ChildView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChildView.swift; sourceTree = "<group>"; };
+		798B182A27D0C94B0017FEC6 /* TabToRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabToRoot.swift; sourceTree = "<group>"; };
+		798B182C27D0CB2C0017FEC6 /* customScrollBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customScrollBar.swift; sourceTree = "<group>"; };
 		79D66AFF27CFB1A200EA0AD2 /* DesignCodeBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignCodeBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79D66B0227CFB1A200EA0AD2 /* DesignCodeBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeBootCampApp.swift; sourceTree = "<group>"; };
 		79D66B0427CFB1A200EA0AD2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +124,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				798B181027D0BE020017FEC6 /* SwiftUITrackableScrollView in Frameworks */,
 				79D66B3F27CFD00E00EA0AD2 /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -94,6 +132,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		798B181B27D0C5110017FEC6 /* TabBarScrollToTopClass */ = {
+			isa = PBXGroup;
+			children = (
+				798B182027D0C55D0017FEC6 /* HomeView.swift */,
+				798B181D27D0C54D0017FEC6 /* CourseCard.swift */,
+				798B181C27D0C54D0017FEC6 /* CoursesView.swift */,
+				798B182227D0C5690017FEC6 /* TabToToop.swift */,
+				798B182827D0C8EF0017FEC6 /* ChildView.swift */,
+				798B182A27D0C94B0017FEC6 /* TabToRoot.swift */,
+				798B182C27D0CB2C0017FEC6 /* customScrollBar.swift */,
+			);
+			path = TabBarScrollToTopClass;
+			sourceTree = "<group>";
+		};
 		79D66AF627CFB1A200EA0AD2 = {
 			isa = PBXGroup;
 			children = (
@@ -133,6 +185,7 @@
 		79D66B1027CFB27700EA0AD2 /* BootCampFiles */ = {
 			isa = PBXGroup;
 			children = (
+				798B181B27D0C5110017FEC6 /* TabBarScrollToTopClass */,
 				79D66B1127CFB28F00EA0AD2 /* ShapesClass.swift */,
 				79D66B1327CFB39300EA0AD2 /* ColorLiteralClass.swift */,
 				79D66B1727CFB4D300EA0AD2 /* SidebarClass.swift */,
@@ -163,6 +216,17 @@
 				79D66B4C27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift */,
 				79D66B4E27D0037F00EA0AD2 /* HorizontalScroll3D.swift */,
 				79D66B5027D0069C00EA0AD2 /* CustomAnimationClass.swift */,
+				798B17FE27D0B5520017FEC6 /* DismissCustomModal */,
+				798B180027D0B5CE0017FEC6 /* IteratingFunctionClass.swift */,
+				798B180227D0B6E90017FEC6 /* SwitchVariableClass.swift */,
+				798B180427D0B7790017FEC6 /* DateFormatClass.swift */,
+				798B180627D0B95D0017FEC6 /* UserDefaultsClass.swift */,
+				798B180827D0BAB50017FEC6 /* HideKeyboardClass.swift */,
+				798B180A27D0BB5F0017FEC6 /* videoPlayerClass.swift */,
+				798B180C27D0BDAF0017FEC6 /* TrackableTableViewClass.swift */,
+				798B181127D0BFD80017FEC6 /* LinkForText.swift */,
+				798B181327D0C0E50017FEC6 /* ShareSheetClass.swift */,
+				798B181727D0C28F0017FEC6 /* AppstorageClass.swift */,
 			);
 			path = BootCampFiles;
 			sourceTree = "<group>";
@@ -185,6 +249,7 @@
 			name = DesignCodeBootCamp;
 			packageProductDependencies = (
 				79D66B3E27CFD00E00EA0AD2 /* Lottie */,
+				798B180F27D0BE020017FEC6 /* SwiftUITrackableScrollView */,
 			);
 			productName = DesignCodeBootCamp;
 			productReference = 79D66AFF27CFB1A200EA0AD2 /* DesignCodeBootCamp.app */;
@@ -216,6 +281,7 @@
 			mainGroup = 79D66AF627CFB1A200EA0AD2;
 			packageReferences = (
 				79D66B3D27CFD00E00EA0AD2 /* XCRemoteSwiftPackageReference "lottie-ios" */,
+				798B180E27D0BE020017FEC6 /* XCRemoteSwiftPackageReference "trackable-scroll-view" */,
 			);
 			productRefGroup = 79D66B0027CFB1A200EA0AD2 /* Products */;
 			projectDirPath = "";
@@ -231,6 +297,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				798B17FF27D0B5520017FEC6 /* DismissCustomModal in Resources */,
 				79D66B0A27CFB1A300EA0AD2 /* Preview Assets.xcassets in Resources */,
 				79D66B0727CFB1A300EA0AD2 /* Assets.xcassets in Resources */,
 			);
@@ -246,17 +313,27 @@
 				79D66B2227CFB9E400EA0AD2 /* ShadowClass.swift in Sources */,
 				79D66B3227CFC5AD00EA0AD2 /* MatchedGeometryReaderClass.swift in Sources */,
 				79D66B2427CFBAD300EA0AD2 /* MaskAndTransparencyClass.swift in Sources */,
+				798B182D27D0CB2C0017FEC6 /* customScrollBar.swift in Sources */,
 				79D66B1427CFB39300EA0AD2 /* ColorLiteralClass.swift in Sources */,
 				79D66B1827CFB4D300EA0AD2 /* SidebarClass.swift in Sources */,
 				79D66B3027CFC3DA00EA0AD2 /* DragGestureClass.swift in Sources */,
+				798B181827D0C28F0017FEC6 /* AppstorageClass.swift in Sources */,
+				798B181227D0BFD80017FEC6 /* LinkForText.swift in Sources */,
+				798B182B27D0C94B0017FEC6 /* TabToRoot.swift in Sources */,
 				79D66B5127D0069C00EA0AD2 /* CustomAnimationClass.swift in Sources */,
+				798B180B27D0BB5F0017FEC6 /* videoPlayerClass.swift in Sources */,
 				79D66B4B27D001CC00EA0AD2 /* StateBarClass.swift in Sources */,
 				79D66B0527CFB1A200EA0AD2 /* ContentView.swift in Sources */,
 				79D66B3827CFCC9E00EA0AD2 /* BackgroundBlurClass.swift in Sources */,
 				79D66B3427CFC81300EA0AD2 /* AdvancedMatchedGeometry.swift in Sources */,
+				798B180527D0B7790017FEC6 /* DateFormatClass.swift in Sources */,
 				79D66B2A27CFBDF700EA0AD2 /* TransitionClass.swift in Sources */,
 				79D66B2027CFB92B00EA0AD2 /* maxWidthClass.swift in Sources */,
+				798B182927D0C8EF0017FEC6 /* ChildView.swift in Sources */,
 				79D66B4D27D0023B00EA0AD2 /* RedactedPlaceholderClass.swift in Sources */,
+				798B182127D0C55D0017FEC6 /* HomeView.swift in Sources */,
+				798B181E27D0C54D0017FEC6 /* CoursesView.swift in Sources */,
+				798B182327D0C5690017FEC6 /* TabToToop.swift in Sources */,
 				79D66B0327CFB1A200EA0AD2 /* DesignCodeBootCampApp.swift in Sources */,
 				79D66B1E27CFB84600EA0AD2 /* TextViewClass.swift in Sources */,
 				79D66B3A27CFCEBB00EA0AD2 /* VisualEffectBlur.swift in Sources */,
@@ -265,14 +342,21 @@
 				79D66B3627CFC8F600EA0AD2 /* AdvancedGeometryPlayView.swift in Sources */,
 				79D66B1C27CFB7BB00EA0AD2 /* ImageViewClass.swift in Sources */,
 				79D66B2C27CFBF6300EA0AD2 /* Animation3DClass.swift in Sources */,
+				798B180727D0B95D0017FEC6 /* UserDefaultsClass.swift in Sources */,
 				79D66B4727CFD54F00EA0AD2 /* PickerClass.swift in Sources */,
+				798B180927D0BAB50017FEC6 /* HideKeyboardClass.swift in Sources */,
+				798B180127D0B5CE0017FEC6 /* IteratingFunctionClass.swift in Sources */,
 				79D66B2627CFBCA500EA0AD2 /* TabviewClass.swift in Sources */,
 				79D66B4327CFD39000EA0AD2 /* LazyVstackClass.swift in Sources */,
 				79D66B1A27CFB6CE00EA0AD2 /* ToolBarClass.swift in Sources */,
+				798B181F27D0C54D0017FEC6 /* CourseCard.swift in Sources */,
 				79D66B2E27CFC11100EA0AD2 /* TapandLongPressAnimationClass.swift in Sources */,
+				798B180327D0B6E90017FEC6 /* SwitchVariableClass.swift in Sources */,
 				79D66B4527CFD45100EA0AD2 /* LinkClass.swift in Sources */,
+				798B180D27D0BDAF0017FEC6 /* TrackableTableViewClass.swift in Sources */,
 				79D66B3C27CFCF4700EA0AD2 /* LottieView.swift in Sources */,
 				79D66B4F27D0037F00EA0AD2 /* HorizontalScroll3D.swift in Sources */,
+				798B181427D0C0E50017FEC6 /* ShareSheetClass.swift in Sources */,
 				79D66B1227CFB28F00EA0AD2 /* ShapesClass.swift in Sources */,
 				79D66B2827CFBD2300EA0AD2 /* AnimationClass.swift in Sources */,
 			);
@@ -477,6 +561,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		798B180E27D0BE020017FEC6 /* XCRemoteSwiftPackageReference "trackable-scroll-view" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maxnatchanon/trackable-scroll-view";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 		79D66B3D27CFD00E00EA0AD2 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/airbnb/lottie-ios";
@@ -488,6 +580,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		798B180F27D0BE020017FEC6 /* SwiftUITrackableScrollView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 798B180E27D0BE020017FEC6 /* XCRemoteSwiftPackageReference "trackable-scroll-view" */;
+			productName = SwiftUITrackableScrollView;
+		};
 		79D66B3E27CFD00E00EA0AD2 /* Lottie */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 79D66B3D27CFD00E00EA0AD2 /* XCRemoteSwiftPackageReference "lottie-ios" */;
